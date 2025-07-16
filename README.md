@@ -8,4 +8,20 @@
 | [0182-duplicate-emails](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0197-rising-temperature) |
+## Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+## String
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
