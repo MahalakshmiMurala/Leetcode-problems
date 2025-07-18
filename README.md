@@ -49,6 +49,7 @@
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0136-single-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Math
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [1013-fibonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
