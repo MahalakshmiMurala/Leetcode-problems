@@ -48,6 +48,7 @@
 | [0389-find-the-difference](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2836-neither-minimum-nor-maximum](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2836-neither-minimum-nor-maximum) |
 ## Array
 |  |
 | ------- |
@@ -56,6 +57,7 @@
 | [0414-third-maximum-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2836-neither-minimum-nor-maximum](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2836-neither-minimum-nor-maximum) |
 ## Math
 |  |
 | ------- |
