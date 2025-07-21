@@ -39,6 +39,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0190-reverse-bits) |
 | [0389-find-the-difference](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0389-find-the-difference) |
@@ -64,6 +65,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
