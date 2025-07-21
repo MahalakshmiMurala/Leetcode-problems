@@ -22,6 +22,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0389-find-the-difference) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Queue
 |  |
