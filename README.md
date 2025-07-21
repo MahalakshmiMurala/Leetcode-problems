@@ -45,6 +45,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0414-third-maximum-number) |
@@ -53,6 +54,7 @@
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0018-4sum) |
 | [0118-pascals-triangle](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0136-single-number) |
 | [0414-third-maximum-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0414-third-maximum-number) |
@@ -90,5 +92,6 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0018-4sum) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
