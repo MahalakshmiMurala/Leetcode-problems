@@ -15,6 +15,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1813-maximum-erasure-value](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1813-maximum-erasure-value) |
 ## String
 |  |
 | ------- |
@@ -60,6 +61,7 @@
 | [0136-single-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0136-single-number) |
 | [0414-third-maximum-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1813-maximum-erasure-value](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2836-neither-minimum-nor-maximum) |
 ## Math
@@ -96,4 +98,8 @@
 | ------- |
 | [0018-4sum](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0018-4sum) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1813-maximum-erasure-value](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1813-maximum-erasure-value) |
 <!---LeetCode Topics End-->
