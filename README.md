@@ -15,6 +15,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1500-count-largest-group](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1500-count-largest-group) |
 | [1813-maximum-erasure-value](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1813-maximum-erasure-value) |
 ## String
 |  |
@@ -71,6 +72,7 @@
 | [0070-climbing-stairs](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
+| [1500-count-largest-group](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1500-count-largest-group) |
 ## Dynamic Programming
 |  |
 | ------- |
