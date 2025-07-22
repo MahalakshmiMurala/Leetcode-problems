@@ -61,6 +61,7 @@
 | [0118-pascals-triangle](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0136-single-number) |
 | [0414-third-maximum-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0414-third-maximum-number) |
+| [1293-three-consecutive-odds](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1813-maximum-erasure-value](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
