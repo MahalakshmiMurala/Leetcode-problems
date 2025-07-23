@@ -44,6 +44,7 @@
 | [0029-divide-two-integers](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
@@ -79,6 +80,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0338-counting-bits](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
