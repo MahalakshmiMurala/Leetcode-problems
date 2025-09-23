@@ -127,4 +127,9 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0278-first-bad-version) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
