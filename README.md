@@ -29,6 +29,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 ## Queue
@@ -148,4 +149,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0292-nim-game) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
