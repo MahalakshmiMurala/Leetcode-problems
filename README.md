@@ -25,6 +25,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -52,6 +53,7 @@
 | [0268-missing-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Sorting
 |  |
 | ------- |
@@ -83,6 +85,7 @@
 | [0070-climbing-stairs](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0292-nim-game) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
