@@ -132,10 +132,12 @@
 | ------- |
 | [0268-missing-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Brainteaser
 |  |
 | ------- |
