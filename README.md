@@ -71,6 +71,7 @@
 | ------- |
 | [0018-4sum](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0018-4sum) |
 | [0118-pascals-triangle](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0283-move-zeroes) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
