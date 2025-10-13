@@ -11,6 +11,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0268-missing-number) |
@@ -61,6 +62,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0018-4sum) |
+| [0217-contains-duplicate](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0389-find-the-difference) |
@@ -74,6 +76,7 @@
 | [0118-pascals-triangle](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0283-move-zeroes) |
