@@ -9,6 +9,7 @@
 | [0183-customers-who-never-order](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0183-customers-who-never-order) |
 | [0197-rising-temperature](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0577-employee-bonus) |
+| [0596-classes-with-at-least-5-students](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0596-classes-with-at-least-5-students) |
 ## Hash Table
 |  |
 | ------- |
