@@ -1,13 +1,13 @@
 class Solution(object):
     def getRow(self, rowIndex):
-        r=[]
-        s=1
-        r.append(s)
+        result=[]
+        start=1
+        result.append(start)
         for i in range(rowIndex):
-            s*=(rowIndex-i)
-            s//=(i+1)
-            r.append(s)
-        return r
+            start*=(rowIndex-i)
+            start//=(i+1)
+            result.append(start)
+        return result
         """
         :type rowIndex: int
         :rtype: List[int]
