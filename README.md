@@ -92,6 +92,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0268-missing-number) |
