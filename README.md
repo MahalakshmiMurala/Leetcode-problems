@@ -106,6 +106,7 @@
 | [1013-fibonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1500-count-largest-group](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1500-count-largest-group) |
+| [2608-count-the-digits-that-divide-a-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Dynamic Programming
 |  |
 | ------- |
