@@ -45,6 +45,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1797-goal-parser-interpretation](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1797-goal-parser-interpretation) |
 | [2128-reverse-prefix-of-word](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
+| [2235-capitalize-the-title](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2235-capitalize-the-title) |
 ## Queue
 |  |
 | ------- |
