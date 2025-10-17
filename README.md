@@ -46,6 +46,7 @@
 | [1797-goal-parser-interpretation](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1797-goal-parser-interpretation) |
 | [2128-reverse-prefix-of-word](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2235-capitalize-the-title](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2235-capitalize-the-title) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Queue
 |  |
 | ------- |
@@ -73,6 +74,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0476-number-complement) |
 | [1054-complement-of-base-10-integer](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1054-complement-of-base-10-integer) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [1013-fibonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Recursion
 |  |
 | ------- |
@@ -196,4 +199,8 @@
 |  |
 | ------- |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+## Bitmask
+|  |
+| ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 <!---LeetCode Topics End-->
