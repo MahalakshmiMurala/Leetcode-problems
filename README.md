@@ -20,6 +20,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0782-jewels-and-stones](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1500-count-largest-group](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1500-count-largest-group) |
@@ -100,6 +101,7 @@
 | [0283-move-zeroes](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [1293-three-consecutive-odds](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1813-maximum-erasure-value](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1813-maximum-erasure-value) |
@@ -196,6 +198,7 @@
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [2128-reverse-prefix-of-word](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 ## Greedy
 |  |
@@ -206,4 +209,8 @@
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
