@@ -75,6 +75,7 @@
 | [0389-find-the-difference](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1054-complement-of-base-10-integer](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1054-complement-of-base-10-integer) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Sorting
