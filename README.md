@@ -51,6 +51,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2235-capitalize-the-title](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2235-capitalize-the-title) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3684-substring-matching-pattern](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3684-substring-matching-pattern) |
 ## Queue
 |  |
 | ------- |
@@ -203,6 +204,7 @@
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0459-repeated-substring-pattern) |
+| [3684-substring-matching-pattern](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3684-substring-matching-pattern) |
 ## Stack
 |  |
 | ------- |
