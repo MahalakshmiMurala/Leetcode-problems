@@ -94,6 +94,7 @@
 | [2836-neither-minimum-nor-maximum](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Array
 |  |
 | ------- |
@@ -118,6 +119,7 @@
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +175,7 @@
 | [0219-contains-duplicate-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0219-contains-duplicate-ii) |
 | [1813-maximum-erasure-value](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -187,6 +190,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Interactive
 |  |
 | ------- |
@@ -239,4 +243,5 @@
 |  |
 | ------- |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 <!---LeetCode Topics End-->
