@@ -23,6 +23,7 @@
 | [0389-find-the-difference](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0697-degree-of-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -115,6 +116,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0496-next-greater-element-i) |
+| [0697-degree-of-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0749-shortest-completing-word) |
 | [1293-three-consecutive-odds](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
