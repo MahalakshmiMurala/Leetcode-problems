@@ -56,6 +56,7 @@
 | [2235-capitalize-the-title](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2235-capitalize-the-title) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3684-substring-matching-pattern](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3684-substring-matching-pattern) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Queue
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [1500-count-largest-group](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1500-count-largest-group) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0415-add-strings) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -255,4 +258,12 @@
 | ------- |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
