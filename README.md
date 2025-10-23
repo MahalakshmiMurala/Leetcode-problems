@@ -79,6 +79,7 @@
 | [0338-counting-bits](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0461-hamming-distance](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0476-number-complement) |
 | [0693-binary-number-with-alternating-bits](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [1054-complement-of-base-10-integer](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1054-complement-of-base-10-integer) |
