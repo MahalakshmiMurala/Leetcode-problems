@@ -125,6 +125,7 @@
 | [0697-degree-of-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0749-shortest-completing-word) |
 | [0898-transpose-matrix](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0898-transpose-matrix) |
+| [0932-monotonic-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0932-monotonic-array) |
 | [1293-three-consecutive-odds](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1813-maximum-erasure-value](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1813-maximum-erasure-value) |
