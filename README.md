@@ -124,6 +124,7 @@
 | [0496-next-greater-element-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0749-shortest-completing-word) |
+| [0898-transpose-matrix](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [1293-three-consecutive-odds](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1813-maximum-erasure-value](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1813-maximum-erasure-value) |
@@ -199,6 +200,7 @@
 | ------- |
 | [0412-fizz-buzz](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0415-add-strings) |
+| [0898-transpose-matrix](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
@@ -272,4 +274,8 @@
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
