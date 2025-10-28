@@ -136,6 +136,7 @@
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2836-neither-minimum-nor-maximum](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2836-neither-minimum-nor-maximum) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -208,6 +209,7 @@
 | [0412-fizz-buzz](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0898-transpose-matrix) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
 |  |
@@ -271,6 +273,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [3616-make-array-elements-equal-to-zero](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Combinatorics
