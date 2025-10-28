@@ -47,6 +47,7 @@
 | [0434-number-of-segments-in-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0520-detect-capital) |
+| [0541-reverse-string-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0551-student-attendance-record-i) |
 | [0742-to-lower-case](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0742-to-lower-case) |
 | [0749-shortest-completing-word](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0749-shortest-completing-word) |
@@ -187,6 +188,7 @@
 | [0283-move-zeroes](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [0541-reverse-string-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0953-reverse-only-letters](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0953-reverse-only-letters) |
 | [2128-reverse-prefix-of-word](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 ## Sliding Window
