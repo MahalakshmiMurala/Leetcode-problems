@@ -31,6 +31,7 @@
 | [0749-shortest-completing-word](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0782-jewels-and-stones) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1500-count-largest-group) |
 | [1813-maximum-erasure-value](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -107,6 +108,7 @@
 | [0414-third-maximum-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2836-neither-minimum-nor-maximum](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -132,6 +134,7 @@
 | [0932-monotonic-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0932-monotonic-array) |
 | [1293-three-consecutive-odds](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1813-maximum-erasure-value](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -291,4 +294,8 @@
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0898-transpose-matrix) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
