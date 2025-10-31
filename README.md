@@ -159,6 +159,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0415-add-strings) |
+| [0507-perfect-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
