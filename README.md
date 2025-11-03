@@ -170,6 +170,7 @@
 | [0415-add-strings](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1500-count-largest-group](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1500-count-largest-group) |
@@ -184,6 +185,7 @@
 | [0119-pascals-triangle-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0338-counting-bits](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1236-n-th-tribonacci-number) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -249,10 +251,12 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1086-divisor-game) |
 ## String Matching
 |  |
 | ------- |
