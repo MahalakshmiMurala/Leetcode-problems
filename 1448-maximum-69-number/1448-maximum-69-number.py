@@ -1,13 +1,13 @@
 class Solution(object):
     def maximum69Number (self, num):
-        num_str = list(str(num))
+        n = list(str(num))
         
-        for i in range(len(num_str)):
-            if num_str[i] == '6':
-                num_str[i] = '9'
+        for i in range(len(n)):
+            if n[i] == '6':
+                n[i] = '9'
                 break
         
-        return int("".join(num_str))
+        return int("".join(n))
         """
         :type num: int
         :rtype: int
