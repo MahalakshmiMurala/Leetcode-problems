@@ -31,6 +31,7 @@
 | [0697-degree-of-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0749-shortest-completing-word](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0782-jewels-and-stones) |
+| [1256-rank-transform-of-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1297-maximum-number-of-balloons](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -116,6 +117,7 @@
 | [0389-find-the-difference](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [1256-rank-transform-of-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
@@ -143,6 +145,7 @@
 | [0898-transpose-matrix](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0932-monotonic-array) |
 | [1168-duplicate-zeros](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1168-duplicate-zeros) |
+| [1256-rank-transform-of-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
