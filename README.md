@@ -184,6 +184,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1500-count-largest-group) |
+| [2083-three-divisors](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2556-convert-the-temperature) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2608-count-the-digits-that-divide-a-number) |
@@ -307,6 +308,7 @@
 |  |
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [2083-three-divisors](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2083-three-divisors) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -320,6 +322,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2083-three-divisors](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2491-smallest-even-multiple) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
