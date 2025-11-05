@@ -172,6 +172,7 @@
 | [0029-divide-two-integers](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0292-nim-game) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -243,6 +244,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0898-transpose-matrix) |
@@ -326,6 +328,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0258-add-digits) |
 | [2083-three-divisors](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2083-three-divisors) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2491-smallest-even-multiple) |
