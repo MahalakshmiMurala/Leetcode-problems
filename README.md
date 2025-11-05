@@ -70,6 +70,7 @@
 | [1797-goal-parser-interpretation](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1797-goal-parser-interpretation) |
 | [2128-reverse-prefix-of-word](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2235-capitalize-the-title](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2235-capitalize-the-title) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3684-substring-matching-pattern](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3684-substring-matching-pattern) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -245,6 +246,7 @@
 | [0412-fizz-buzz](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0898-transpose-matrix) |
+| [2361-calculate-digit-sum-of-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Binary Search
