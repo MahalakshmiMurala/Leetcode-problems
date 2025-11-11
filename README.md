@@ -123,6 +123,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2836-neither-minimum-nor-maximum](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -157,6 +158,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1813-maximum-erasure-value](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1813-maximum-erasure-value) |
+| [2042-maximum-product-difference-between-two-pairs](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
