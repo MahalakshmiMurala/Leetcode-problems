@@ -121,6 +121,7 @@
 | [1256-rank-transform-of-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2836-neither-minimum-nor-maximum](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -153,6 +154,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1524-string-matching-in-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1524-string-matching-in-an-array) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1813-maximum-erasure-value](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1813-maximum-erasure-value) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -220,6 +222,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Two Pointers
 |  |
