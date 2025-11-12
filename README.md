@@ -70,6 +70,7 @@
 | [1797-goal-parser-interpretation](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1797-goal-parser-interpretation) |
 | [2128-reverse-prefix-of-word](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2128-reverse-prefix-of-word) |
 | [2235-capitalize-the-title](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2235-capitalize-the-title) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3684-substring-matching-pattern](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3684-substring-matching-pattern) |
@@ -161,6 +162,7 @@
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [2341-count-prefixes-of-a-given-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2836-neither-minimum-nor-maximum](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2836-neither-minimum-nor-maximum) |
