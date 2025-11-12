@@ -38,6 +38,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1500-count-largest-group](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1500-count-largest-group) |
 | [1813-maximum-erasure-value](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1813-maximum-erasure-value) |
+| [2502-sort-the-people](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2502-sort-the-people) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## String
 |  |
@@ -72,6 +73,7 @@
 | [2235-capitalize-the-title](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2235-capitalize-the-title) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [2502-sort-the-people](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2502-sort-the-people) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3684-substring-matching-pattern](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3684-substring-matching-pattern) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -125,6 +127,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2502-sort-the-people](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -163,6 +166,7 @@
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2502-sort-the-people](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2836-neither-minimum-nor-maximum](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2836-neither-minimum-nor-maximum) |
