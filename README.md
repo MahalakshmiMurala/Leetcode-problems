@@ -45,6 +45,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2502-sort-the-people) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
 | ------- |
@@ -185,6 +186,7 @@
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
+| [4115-minimum-distance-between-three-equal-elements-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
 | ------- |
