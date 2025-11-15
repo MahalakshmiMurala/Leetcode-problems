@@ -95,6 +95,7 @@
 | ------- |
 | [0383-ransom-note](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1297-maximum-number-of-balloons](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1297-maximum-number-of-balloons) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -132,6 +133,7 @@
 | [0389-find-the-difference](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1256-rank-transform-of-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -163,6 +165,7 @@
 | [0749-shortest-completing-word](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0749-shortest-completing-word) |
 | [0898-transpose-matrix](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0932-monotonic-array) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1168-duplicate-zeros](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1168-duplicate-zeros) |
 | [1256-rank-transform-of-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1293-three-consecutive-odds) |
@@ -319,6 +322,7 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0455-assign-cookies) |
+| [0982-minimum-increment-to-make-array-unique](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1448-maximum-69-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1448-maximum-69-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
