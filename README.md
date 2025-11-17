@@ -47,6 +47,7 @@
 | [2502-sort-the-people](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2502-sort-the-people) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## String
 |  |
@@ -99,6 +100,7 @@
 | [1297-maximum-number-of-balloons](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1297-maximum-number-of-balloons) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
