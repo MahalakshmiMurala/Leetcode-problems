@@ -123,6 +123,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2659-number-of-even-and-odd-bits](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2659-number-of-even-and-odd-bits) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -193,6 +194,7 @@
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4115-minimum-distance-between-three-equal-elements-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/4115-minimum-distance-between-three-equal-elements-i) |
 ## Math
 |  |
@@ -282,6 +284,7 @@
 | [2361-calculate-digit-sum-of-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2361-calculate-digit-sum-of-a-string) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+| [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
