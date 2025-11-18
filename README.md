@@ -42,6 +42,7 @@
 | [1500-count-largest-group](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1500-count-largest-group) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1813-maximum-erasure-value) |
+| [1848-sum-of-unique-elements](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1848-sum-of-unique-elements) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2502-sort-the-people](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2502-sort-the-people) |
@@ -98,6 +99,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1297-maximum-number-of-balloons](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1297-maximum-number-of-balloons) |
+| [1848-sum-of-unique-elements](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1848-sum-of-unique-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
@@ -181,6 +183,7 @@
 | [1626-can-make-arithmetic-progression-from-sequence](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1626-can-make-arithmetic-progression-from-sequence) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1813-maximum-erasure-value) |
+| [1848-sum-of-unique-elements](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1848-sum-of-unique-elements) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
