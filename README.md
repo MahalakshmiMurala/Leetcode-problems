@@ -149,6 +149,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2502-sort-the-people](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2502-sort-the-people) |
+| [2756-buy-two-chocolates](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -195,6 +196,7 @@
 | [2502-sort-the-people](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2502-sort-the-people) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2756-buy-two-chocolates](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2756-buy-two-chocolates) |
 | [2836-neither-minimum-nor-maximum](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -338,6 +340,7 @@
 | [0982-minimum-increment-to-make-array-unique](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1448-maximum-69-number](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/1448-maximum-69-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
+| [2756-buy-two-chocolates](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/2756-buy-two-chocolates) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Bitmask
 |  |
