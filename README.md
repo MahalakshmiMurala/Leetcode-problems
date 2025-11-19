@@ -171,6 +171,7 @@
 | [0455-assign-cookies](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0697-degree-of-an-array) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0749-shortest-completing-word](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0749-shortest-completing-word) |
 | [0898-transpose-matrix](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0898-transpose-matrix) |
 | [0932-monotonic-array](https://github.com/MahalakshmiMurala/Leetcode-problems/tree/master/0932-monotonic-array) |
